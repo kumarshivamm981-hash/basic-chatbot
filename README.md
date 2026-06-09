@@ -1,6 +1,5 @@
 # Basic-chatbot
 A basic rule-based chatbot built with Python using functions, loops, and conditional statements.
-# Basic Chatbot
 
 ## Description
 This is a simple rule-based chatbot developed using Python. The chatbot interacts with users through predefined responses and can answer basic questions such as greetings, introduction, and simple conversations.
